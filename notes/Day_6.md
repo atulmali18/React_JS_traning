@@ -11,6 +11,7 @@ Render must used
 what is Render ?
 
 
+
 what is state?
 State is Built-in object in a class component
 it can hold the data
