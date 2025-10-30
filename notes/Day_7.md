@@ -1,5 +1,26 @@
 # Day - 7 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # what is hoisting
 - hoisting is the by default behavior of js that moves the declrations of variable and 
   functions on top of the current scope. 
@@ -8,4 +29,12 @@
 
 - var Keyword
 
-- we declare use the variable before declaration 
+- we declare use the variable before declaration
+
+
+bebal
+JSX
+Virtual 
+components
+what is state 
+props
